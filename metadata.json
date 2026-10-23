@@ -1,0 +1,6 @@
+{
+  "name": "알고리즘 탐구실 (Algorithm Lab)",
+  "description": "중학교 정보 수업을 위한 알고리즘 조건, 표현 방법, 3대 제어 구조 인터랙티브 학습 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
